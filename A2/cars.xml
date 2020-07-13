@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<cars>
+  <car>
+    <category>Sedan</category>
+    <availability>True</availability>
+    <brand>Toyota</brand>
+    <model>Camry</model>
+    <modelYear>2013</modelYear>
+    <mileage>45000</mileage>
+    <fuelType>Petrol</fuelType>
+    <seats>5</seats>
+    <pricePerDay>220</pricePerDay>
+    <description>"The 2013 Toyota Camry is no standout for design, but it's more than ever the sensible pick for those who value comfort, value, and frugality above all else." - The Car Connection, 2013</description>
+    <qty>1</qty>
+  </car>
+  <car>
+    <category>Sedan</category>
+    <availability>True</availability>
+    <brand>BMW</brand>
+    <model>320i</model>
+    <modelYear>2014</modelYear>
+    <mileage>26000</mileage>
+    <fuelType>Petrol</fuelType>
+    <seats>5</seats>
+    <pricePerDay>240</pricePerDay>
+    <description>"This is BMW's main model accounting for more sales than any other model. The 320i is a favourite of the "executive buyer" and "user chooser" offering class, luxury, safety, economy and sporty performance in a practical and good looking four door Sedan." - Car Guides, 2014</description>
+    <qty>1</qty>
+  </car>
+  <car>
+    <category>SUV</category>
+    <availability>True</availability>
+    <brand>Nissan</brand>
+    <model>X-trail</model>
+    <modelYear>2016</modelYear>
+    <mileage>12000</mileage>
+    <fuelType>Petrol</fuelType>
+    <seats>7</seats>
+    <pricePerDay>200</pricePerDay>
+    <description>The Nissan X-Trail is a compact crossover SUV produced by the Japanese automaker Nissan since 2000. In third generation, it is a 3-row (which means 7-seater) SUV.</description>
+    <qty>1</qty>
+  </car>
+  <car>
+    <category>Sedan</category>
+    <availability>True</availability>
+    <brand>Honda</brand>
+    <model>Civic</model>
+    <modelYear>2017</modelYear>
+    <mileage>30000</mileage>
+    <fuelType>Petrol</fuelType>
+    <seats>5</seats>
+    <pricePerDay>140</pricePerDay>
+    <description>The Honda Civic (Japanese: ホンダ・シビック Honda Shibikku) is a line of cars manufactured by Honda. Originally a subcompact, the Civic has gone through several generational changes, becoming both larger and more upscale, moving into the compact car segment.</description>
+    <qty>1</qty>
+  </car>
+  <car>
+    <category>SUV</category>
+    <availability>True</availability>
+    <brand>Jeep</brand>
+    <model>Cherokee</model>
+    <modelYear>2015</modelYear>
+    <mileage>35000</mileage>
+    <fuelType>Diesel</fuelType>
+    <seats>5</seats>
+    <pricePerDay>290</pricePerDay>
+    <description>The Jeep Cherokee is a line of American vehicles sold by Jeep under various vehicle classes. Originally sold as a variant of the popular Jeep Wagoneer, the Cherokee has evolved from a full-size SUV to one of the first compact SUVs and eventually into its current incarnation as a crossover SUV.</description>
+    <qty>1</qty>
+  </car>
+  <car>
+    <category>Wagon</category>
+    <availability>True</availability>
+    <brand>Volkswagen</brand>
+    <model>Golf</model>
+    <modelYear>2018</modelYear>
+    <mileage>18000</mileage>
+    <fuelType>CNG</fuelType>
+    <seats>5</seats>
+    <pricePerDay>170</pricePerDay>
+    <description>"Volkswagen’s Golf is an automotive icon and one of the world’s best-selling cars." - Drive.com.au, 2018</description>
+    <qty>1</qty>
+  </car>
+  <car>
+    <category>Sedan</category>
+    <availability>True</availability>
+    <brand>Hyundai</brand>
+    <model>Sonata</model>
+    <modelYear>2014</modelYear>
+    <mileage>5</mileage>
+    <fuelType>Petrol</fuelType>
+    <seats>dummy</seats>
+    <pricePerDay>290</pricePerDay>
+    <description>The Hyundai Sonata offers thrilling performance, the latest tech features and a sporty design. You'll want to take it for a test drive today!</description>
+    <qty>1</qty>
+  </car>
+  <car>
+    <category>SUV</category>
+    <availability>False</availability>
+    <brand>Suzuki</brand>
+    <model>Jimny</model>
+    <modelYear>2013</modelYear>
+    <mileage>70000</mileage>
+    <fuelType>Diesel</fuelType>
+    <seats>5</seats>
+    <pricePerDay>280</pricePerDay>
+    <description>The Suzuki Jimny is a line of four-wheel drive off-road mini SUVs, made by Japanese automaker Suzuki since 1970.</description>
+    <qty>1</qty>
+  </car>
+  <car>
+    <category>SUV</category>
+    <availability>False</availability>
+    <brand>Mercedes-Benz</brand>
+    <model>GLC</model>
+    <modelYear>2018</modelYear>
+    <mileage>45000</mileage>
+    <fuelType>Petrol</fuelType>
+    <seats>5</seats>
+    <pricePerDay>380</pricePerDay>
+    <description>4MATIC permanent all-wheel drive delivers superlative traction to tackle any ascent. Discover the GLC's off-road talents now.</description>
+    <qty>1</qty>
+  </car>
+  <car>
+    <category>SUV</category>
+    <availability>False</availability>
+    <brand>Holden</brand>
+    <model>Captiva</model>
+    <modelYear>2017</modelYear>
+    <mileage>34000</mileage>
+    <fuelType>Petrol</fuelType>
+    <seats>7</seats>
+    <pricePerDay>200</pricePerDay>
+    <description>The Holden Captiva launched in 2006, plugging a gap for a mid-sized SUV in Holden's range, long left open by the Frontera's departure</description>
+    <qty>1</qty>
+  </car>
+</cars>
